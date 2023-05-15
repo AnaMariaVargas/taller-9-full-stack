@@ -8,4 +8,4 @@
 <a href="https://www.figma.com/file/BKx3pcayGzBUfRCqIzLR41/Ana-Maria-Vargas-G.-%2Fejercicios-Figma?type=design&node-id=0-1&t=UUPaUHX6mnayJJgq-0">link figma</a>
 
 <h2>punto 2: HTML</h2>
-<div><img scr="./ejercicios 1-3/public/images/html.png" alt="HTML"></div>
+<div><img src="./ejercicios 1-3/public/images/html.png" alt="HTML"></div>
