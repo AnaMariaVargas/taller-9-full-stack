@@ -28,6 +28,9 @@
     box-shadow: 0px 10px 50px #45486833;
     text-align: center;
 }
+.secction_1_card_top{
+    margin-top: 55px;
+}
 .secction_1_card h3{
     font-family: 'Jost';
     color: #454868;
