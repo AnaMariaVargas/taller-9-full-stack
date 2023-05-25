@@ -9,3 +9,6 @@
 
 <h2>punto 2: HTML</h2>
 <div><img src="./ejercicios 1-3/public/images/html.png" alt="HTML"></div>
+
+<h2>Punto 3: css</h2>
+<div><img src="./ejercicios 1-3/public/images/HTML-CSS.png" alt="CSS"></div>
