@@ -20,3 +20,6 @@
 
 <h2>Punto 5: ESTILOS</h2>
 <div><img src="./Punto_5/images/imagen punto5.png" alt="Textos"></div>
+
+<h2>Punto 6: ENLACES</h2>
+<div><img src="./punto_6/images_6/images_Punto_6.png" alt="ENLACES"></div>

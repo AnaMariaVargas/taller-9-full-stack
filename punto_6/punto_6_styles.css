@@ -1,0 +1,20 @@
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: xxx-large;
+    line-height: 80px;
+
+}
+h1{
+    font-size: 45px;
+}
+.center{
+    padding: 0px 400px;
+}
+#marca{
+    color: yellow;
+}
+#as{
+    color: purple;
+}
