@@ -1,0 +1,15 @@
+#azul{
+    display: flex;
+    justify-content: center;
+color: blue;
+font-family: cursive;
+font-size: 22px;
+}
+#rojo{
+    display: flex;
+    justify-content: center;
+color: red;
+font-family: cursive;
+font-size: 22px;
+}
+

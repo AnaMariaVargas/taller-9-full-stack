@@ -14,3 +14,7 @@
 
 <h2>Punto 3: css</h2>
 <div><img src="./ejercicios 1-3/public/images/HTML-CSS.png" alt="CSS"></div>
+
+<h2>Punto 4: TITULOS</h2>
+<div><img src="./ejercicios 1-3/public/images/HTML-CSS.png" alt="CSS"></div>
+
