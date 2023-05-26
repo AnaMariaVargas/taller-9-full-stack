@@ -16,5 +16,7 @@
 <div><img src="./ejercicios 1-3/public/images/HTML-CSS.png" alt="CSS"></div>
 
 <h2>Punto 4: TITULOS</h2>
-<div><img src="./ejercicios 1-3/public/images/HTML-CSS.png" alt="CSS"></div>
+<div><img src="./punto_4/imagenes/imagen punto 4.png" alt="TITULOS"></div>
 
+<h2>Punto 5: ESTILOS</h2>
+<div><img src="./Punto_5/images/imagen punto5.png" alt="Textos"></div>

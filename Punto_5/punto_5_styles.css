@@ -1,0 +1,25 @@
+div{
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    padding: 0px 300px;
+}
+#sub_verde{
+    color: green;
+}
+#negri_red{
+    color: red;
+
+}
+#decoration{
+    text-decoration:overline underline;
+}
+#big{
+    font-size: xxx-large;
+}
+strong{
+    color: blue;
+}
+strong u{
+    color: red;
+}
