@@ -23,3 +23,6 @@
 
 <h2>Punto 6: ENLACES</h2>
 <div><img src="./punto_6/images_6/images_Punto_6.png" alt="ENLACES"></div>
+
+<h2>Punto 7y8: barra de navegacio</h2>
+<div><img src="./punto_7y8/images_7y8/imagen punto 7y8.png" alt="NAVEGACIÓN"></div>

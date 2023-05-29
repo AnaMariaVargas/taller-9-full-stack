@@ -1,0 +1,29 @@
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #be89be;
+    margin: 0px 300px;
+    height: 80px;
+    font-size: 18px;
+    font-weight: bold;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+a{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+button{
+    width: 80px;
+    height: 40px;
+    font-weight: bold;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}
