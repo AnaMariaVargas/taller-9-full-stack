@@ -25,4 +25,7 @@
 <div><img src="./punto_6/images_6/images_Punto_6.png" alt="ENLACES"></div>
 
 <h2>Punto 7y8: barra de navegacio</h2>
-<div><img src="./punto_7y8/images_7y8/imagen punto 7y8.png" alt="NAVEGACIÓN"></div>
+<div><img src="./punto_7y8/images_7y8/imagen punto 7_y_8.png" alt="NAVEGACIÓN"></div>
+
+<h2>Punto 9: TABLAS</h2>
+<div><img src="./punto_9/images_punto9/imagen punto_9.png" alt="TABLAS"></div>
